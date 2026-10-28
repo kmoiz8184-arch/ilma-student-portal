@@ -1,0 +1,2 @@
+-- Schema is created automatically by server.js at startup.
+-- This file is provided as a project reference.
